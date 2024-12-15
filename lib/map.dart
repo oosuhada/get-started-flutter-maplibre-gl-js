@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:maplibre_gl/maplibre_gl.dart';
 
-const apiKey = "YOUR_MAPTILER_API_KEY_HERE";
+const apiKey = "X8VVOmH05lH238brX29b";
 const styleUrl = "https://api.maptiler.com/maps/streets-v2/style.json";
 
 class MapPage extends StatelessWidget {
