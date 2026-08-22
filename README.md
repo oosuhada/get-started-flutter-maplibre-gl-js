@@ -50,3 +50,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 For help with [Flutter MapLibre](https://github.com/maplibre/flutter-maplibre-gl/) view the online documentation.
+
+## Topics
+
+[`dart`](https://github.com/topics/dart) · [`flutter`](https://github.com/topics/flutter) · [`geospatial`](https://github.com/topics/geospatial) · [`maplibre`](https://github.com/topics/maplibre) · [`maps`](https://github.com/topics/maps) · [`maptiler`](https://github.com/topics/maptiler) · [`mobile-app`](https://github.com/topics/mobile-app)
