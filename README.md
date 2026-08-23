@@ -51,6 +51,16 @@ samples, guidance on mobile development, and a full API reference.
 
 For help with [Flutter MapLibre](https://github.com/maplibre/flutter-maplibre-gl/) view the online documentation.
 
-## Topics
+## Architecture & Topics / 아키텍처 및 주제
 
-[`dart`](https://github.com/topics/dart) · [`flutter`](https://github.com/topics/flutter) · [`geospatial`](https://github.com/topics/geospatial) · [`maplibre`](https://github.com/topics/maplibre) · [`maps`](https://github.com/topics/maps) · [`maptiler`](https://github.com/topics/maptiler) · [`mobile-app`](https://github.com/topics/mobile-app) · [`map`](https://github.com/topics/map) · [`mapping`](https://github.com/topics/mapping) · [`geolocation`](https://github.com/topics/geolocation) · [`openstreetmap`](https://github.com/topics/openstreetmap) · [`flutter-map`](https://github.com/topics/flutter-map) · [`cross-platform`](https://github.com/topics/cross-platform) · [`map-sdk`](https://github.com/topics/map-sdk) · [`flutter-development`](https://github.com/topics/flutter-development)
+**Architecture / 아키텍처**<br>
+[`platform-channel`](https://github.com/topics/platform-channel) · [`native-bridge`](https://github.com/topics/native-bridge) · [`plugin-architecture`](https://github.com/topics/plugin-architecture) · [`declarative-ui`](https://github.com/topics/declarative-ui) · [`client-side-rendering`](https://github.com/topics/client-side-rendering) · [`map-rendering-pipeline`](https://github.com/topics/map-rendering-pipeline) · [`adapter-pattern`](https://github.com/topics/adapter-pattern)
+
+**Core technologies / 핵심 기술**<br>
+[`maplibre`](https://github.com/topics/maplibre) · [`maptiler`](https://github.com/topics/maptiler)
+
+**Project context / 프로젝트 맥락**<br>
+[`cross-platform`](https://github.com/topics/cross-platform) · [`flutter-development`](https://github.com/topics/flutter-development) · [`flutter-map`](https://github.com/topics/flutter-map) · [`geolocation`](https://github.com/topics/geolocation) · [`geospatial`](https://github.com/topics/geospatial) · [`map`](https://github.com/topics/map) · [`map-sdk`](https://github.com/topics/map-sdk) · [`mapping`](https://github.com/topics/mapping) · [`maps`](https://github.com/topics/maps) · [`mobile-app`](https://github.com/topics/mobile-app) · [`openstreetmap`](https://github.com/topics/openstreetmap)
+
+**Implementation stack / 구현 스택**<br>
+[`dart`](https://github.com/topics/dart) · [`flutter`](https://github.com/topics/flutter)
